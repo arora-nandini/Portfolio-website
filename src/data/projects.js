@@ -17,7 +17,7 @@ const projects = [
   },
   {
     title: "Weather Dashboard",
-    description: "Modern e-commerce app with cart and auth.",
+    description: "Displays current weather,shows forecast and historical trends.",
     image: "/projects/weather.png",
     github: "https://github.com/arora-nandini/WEATHER-DASHBOARD",
     live: "https://weather-dashboard-g2vc3xnxd-nandini-aroras-projects.vercel.app/",
